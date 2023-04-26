@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">5.1c</string>
+    <string name="news1_title">Wildfires Ravage California\'s Wine Country</string>
+    <string name="news1_desc">A series of devastating wildfires continue to ravage California\'s wine country, with thousands of acres burned and thousands of residents evacuated from their homes.</string>
+
+    <string name="news2_title">Pfizer Announces COVID-19 Vaccine Safe and Effective for Children 5-11</string>
+    <string name="news2_desc">Pfizer-BioNTech announced that its COVID-19 vaccine has been shown to be safe and effective in children ages 5 to 11, paving the way for younger children to receive the vaccine in the coming months.</string>
+
+    <string name="news3_title">New Study Finds Alarming Levels of Pesticides in Baby Food</string>
+    <string name="news3_desc">A new study from a consumer advocacy group has found "concerning" levels of pesticides in popular brands of baby food, raising questions about the safety of these products for infants and young children.</string>
+
+    <string name="news4_title">Protests Erupt in Myanmar After Military Coup</string>
+    <string name="news4_desc">Tens of thousands of people have taken to the streets in Myanmar to protest against the military coup that ousted the country\'s democratically-elected government, leading to violent clashes with police.</string>
+
+    <string name="news5_title">Apple Unveils New iPhone with 5G Capability</string>
+    <string name="news5_desc">Apple has announced its latest iPhone model, which features 5G connectivity and a number of new features and improvements, including improved cameras and a faster processor.</string>
+
+    <string name="news6_title">NASA Launches New Mission to Study Europa</string>
+    <string name="news6_desc">NASA has launched a new mission to study Jupiter\'s moon Europa, which is believed to have a subsurface ocean that could potentially harbor life. The mission will involve a spacecraft orbiting Europa and conducting a series of flybys to gather data.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
